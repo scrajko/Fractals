@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1413696655 source:c:\users\sean\desktop\coding\fractals\arithmetic.cpp
+	"Arithmetic.hpp"
+	<iostream>
+	<stack>
+
+1414557624 c:\users\sean\desktop\coding\fractals\arithmetic.hpp
+	<string>
+	<vector>
+
+1427836710 source:c:\users\sean\desktop\coding\fractals\color.cpp
+	"Color.hpp"
+
+1427836753 c:\users\sean\desktop\coding\fractals\color.hpp
+	<cstdlib>
+
+1453134895 source:c:\users\sean\desktop\coding\fractals\complex.cpp
+	"Complex.hpp"
+	<cmath>
+
+1427854869 c:\users\sean\desktop\coding\fractals\complex.hpp
+	<iostream>
+
+1408452297 source:c:\users\sean\desktop\coding\fractals\lodepng.cpp
+	"lodepng.h"
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+
+1408452308 c:\users\sean\desktop\coding\fractals\lodepng.h
+	<string.h>
+	<vector>
+	<string>
+	"lodepng.h"
+	<iostream>
+	"lodepng.h"
+
+1488160059 source:c:\users\sean\desktop\coding\fractals\main.cpp
+	"lodepng.h"
+	"Color.hpp"
+	"Complex.hpp"
+	"EquationTree.hpp"
+	"SomeFunctions.hpp"
+	<iostream>
+	<cmath>
+	<sstream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<sstream>
+
+1414274048 c:\users\sean\desktop\coding\fractals\equationtree.hpp
+	"Arithmetic.hpp"
+	<string>
+	<vector>
+	<unordered_map>
+	"EquationTree.inl"
+
+1414273950 c:\users\sean\desktop\coding\fractals\equationtree.inl
+	<iostream>
+	<fstream>
+	<sstream>
+	<cmath>
+	<stack>
+
+1488160278 c:\users\sean\desktop\coding\fractals\somefunctions.hpp
+
